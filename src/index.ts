@@ -1,3 +1,3 @@
-import './mountains';
-import './products';
-import './inventory';
+import "../models/mountains-interface";
+import "./products";
+import "./inventory";
